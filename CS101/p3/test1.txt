@@ -1,0 +1,14 @@
+addMediaOrdered Barbie
+addMediaOrdered Arkansas_vs_Alabama
+addMediaOrdered DemonSlayer_Season_3
+addMediaOrdered Across_the_Spider-Verse
+addRegionOrdered Barbie Europe 13000000
+addRegionOrdered Barbie America 21500000
+addRegionOrdered DemonSlayer_Season_3 America 13800000
+addRegionOrdered DemonSlayer_Season_3 Europe 12000000
+addRegionOrdered DemonSlayer_Season_3 Asia 31500000
+addRegionOrdered Across_the_Spider-Verse America 15000000
+addRegionOrdered Across_the_Spider-Verse Europe 5750000
+count
+print
+quit
